@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Mariana and welcome to my repository.
+- 👀 I’m interested in web applications, SERP APIs, machine learning, customer support and graphic design.
+- 📫 Reach out via e-mail [marianazatti@gmail.com].

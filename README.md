@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Mariana and welcome to my repository.
-- 👀 I’m interested in web applications, SERP APIs, machine learning, customer support and graphic design.
+- 👀 I’m interested in web applications, SERP APIs, software integration, machine learning, customer support and graphic design.
 - :guitar: In my free time I like to produce music in my home studio, write and make songs, read good books and play with my dog, Dobby.
 - 📫 Reach out via e-mail [marianazatti@gmail.com].
